@@ -62,7 +62,7 @@ export default function Home() {
         <div className="w-1/2">
           <img
             src="https://images.squarespace-cdn.com/content/v1/589b5054440243b575b569a8/1682426778911-VBZ4MVNYYKBOBAO71OPT/DA006-TheDogAssembly-BorderCollie5.jpg?format=2500w"
-            className="object-cover w-full"
+            className="object-cover w-full max-h-[500px]"
             alt=""
           />
         </div>
@@ -76,14 +76,6 @@ export default function Home() {
             cupiditate ipsa perspiciatis voluptatem fuga odio sit commodi
             asperiores, placeat vero praesentium eius, suscipit expedita a
             consequatur dicta laboriosam?
-            <br /> <br /> Cupiditate non iste impedit libero molestiae corporis.
-            Laborum dolorum nostrum soluta error, porro iusto dicta quam, labore
-            reprehenderit eum libero, ut facere nihil? Eveniet, atque voluptate
-            quia quis minima nemo possimus enim delectus non, harum voluptas
-            sunt impedit perspiciatis vel sint, esse voluptates corrupti?
-            Accusamus unde illo rerum tempora? Perspiciatis tempora ipsum
-            tempore dignissimos deleniti enim ex beatae! Deserunt amet quam
-            nostrum soluta?
           </p>
         </div>
       </section>
