@@ -58,7 +58,7 @@ export default function Home() {
         />
       </section>
 
-      <section className="py-10 bg-neutral-900">
+      <section className="py-24 bg-neutral-950">
         <p className="text-white/70 text-lg font-light tracking-[5px] text-center">
           BRANDS WE TRUST ON
         </p>

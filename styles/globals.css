@@ -7,3 +7,7 @@ body {
   background: black;
   min-height: 100vh;
 }
+
+::-webkit-scrollbar {
+  display: none;
+}
