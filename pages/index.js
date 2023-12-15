@@ -17,7 +17,7 @@ export default function Home() {
         />
         <div className="absolute inset-0 z-10 h-full w-full bg-gradient-to-b from-black to-transparent">
           <div className="p-16 flex items-center">
-            <img src="/logo.png" className="h-16" alt="" />
+            <img src="/logo.png" className="h-12" alt="" />
             <ul className="text-white/70 flex text-sm items-center space-x-12 ml-auto">
               <li>Home</li>
               <li>About</li>
@@ -31,7 +31,7 @@ export default function Home() {
 
           <div className="flex items-center justify-center mt-16">
             <div className="w-fit h-fit flex flex-col items-center justify-center p-20 bg-black/0 ">
-              <h1 className="text-6xl text-center font-semibold text-white font-serif">
+              <h1 className="text-7xl text-center font-semibold text-white font-serif">
                 Spoil the tail you love
               </h1>
               <p className="text-white/70 text-base mt-5 italic">
@@ -70,7 +70,7 @@ export default function Home() {
           <h1 className="font-josefin tracking-widest font-black text-transparent leading-[1.1] w-[90%] bg-gradient-to-r from-white to-yellow-100 via-yellow-300 bg-clip-text text-xs">
             ABOUT
           </h1>
-          <h2 className="font-serif text-transparent leading-[1.1] w-[90%] bg-gradient-to-r from-white to-yellow-100 via-yellow-300 bg-clip-text text-5xl mt-5">
+          <h2 className="font-serif text-transparent leading-[1.3] w-[90%] bg-gradient-to-r from-white to-yellow-100 via-yellow-300 bg-clip-text text-4xl mt-10">
             What drives us to provide the best care for your pets ?
           </h2>
           <p className="text-white/70 leading-9 text-sm mt-8">
