@@ -9,14 +9,14 @@ const inter = Inter({ subsets: ["latin"] });
 export default function Home() {
   return (
     <main>
-      <section className="h-[800px] bg-orange-50 relative">
+      <section className="h-screen bg-orange-50 relative">
         <img
           src="https://www.neurascapes.com/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fdcigzqcd7%2Fimage%2Fupload%2Fv1700761285%2Ftest%2Fmsg3pfycwvuht6tmntem.webp&w=3840&q=75"
           alt=""
           className="object-cover w-full h-full brightness-75"
         />
-        <div className="absolute inset-0 z-10 h-full w-full bg-gradient-to-b from-black to-transparent">
-          <div className="p-16 flex items-center">
+        <div className="absolute inset-0 z-10 flex flex-col h-full w-full bg-gradient-to-b from-black to-transparent">
+          <div className="p-12 flex items-center">
             <img src="/logo.png" className="h-12" alt="" />
             <ul className="text-white/70 flex text-sm items-center space-x-12 ml-auto">
               <li>Home</li>
@@ -29,7 +29,7 @@ export default function Home() {
             </button>
           </div>
 
-          <div className="flex items-center justify-center mt-16">
+          <div className="flex items-center justify-center my-auto">
             <div className="w-fit h-fit flex flex-col items-center justify-center p-20 bg-black/0 ">
               <h1 className="text-7xl text-center font-semibold text-white font-serif">
                 Spoil the tail you love
@@ -57,7 +57,6 @@ export default function Home() {
           alt=""
         />
       </section>
-
       <section className="py-24 bg-neutral-950">
         <p className="text-white/70 text-lg font-light tracking-[5px] text-center">
           BRANDS WE TRUST ON
@@ -79,10 +78,10 @@ export default function Home() {
           />
         </div>
         <div className="w-1/2 px-16 flex flex-col justify-center relative">
-          <h2 className="uppercase font-light tracking-[3px] text-transparent leading-[1.5] w-[90%] bg-gradient-to-r from-white to-yellow-100 via-yellow-300 bg-clip-text text-4xl">
+          <h2 className="font-thin text-transparent leading-[1.3] w-full bg-gradient-to-r from-white to-white via-yellow-200 bg-clip-text text-5xl">
             What drives us to provide the best care for your pets ?
           </h2>
-          <p className="text-white/70 leading-9 text-sm mt-8">
+          <p className="text-white/70 leading-9 text-base mt-8">
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi cum
             ea cupiditate eos at repellendus quo consequuntur. Voluptatibus
             cupiditate ipsa perspiciatis voluptatem fuga odio sit commodi
