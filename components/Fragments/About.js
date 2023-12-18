@@ -7,7 +7,7 @@ function About() {
       <div className="w-[40%]">
         <img
           src="https://images.squarespace-cdn.com/content/v1/589b5054440243b575b569a8/1682426778911-VBZ4MVNYYKBOBAO71OPT/DA006-TheDogAssembly-BorderCollie5.jpg?format=2500w"
-          className="object-cover w-full max-h-[550px]"
+          className="object-cover w-full max-h-[600px]"
           alt=""
         />
       </div>
