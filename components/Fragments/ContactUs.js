@@ -30,10 +30,11 @@ function ContactUs() {
             </p>
             <p className="text-white/70 text-right my-7 px-6 font-thin">OR</p>
             <p className="text-white text-right px-6 font-light">
-              <span className="opacity-60">Call us at</span> +91 9876543210
+              <span className="opacity-60">Call us at</span> +91 98839 23485
             </p>
             <p className="text-white text-right mt-3 px-6 font-light">
-              <span className="opacity-60">Email us at</span> petsmart@gmail.com
+              <span className="opacity-60">Email us at</span>{" "}
+              petsmart0016@gmail.com
             </p>
           </div>
           <div className="w-1/2 px-10">
