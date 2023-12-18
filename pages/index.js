@@ -9,7 +9,7 @@ const inter = Inter({ subsets: ["latin"] });
 export default function Home() {
   return (
     <main>
-      <section className="lg:h-screen lg:max-h-[1000px] h-[500px] bg-orange-50 relative">
+      <section className="lg:h-screen lg:min-h-[700px] lg:max-h-[1000px] h-[500px] bg-orange-50 relative">
         <img
           src="https://www.neurascapes.com/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fdcigzqcd7%2Fimage%2Fupload%2Fv1700761285%2Ftest%2Fmsg3pfycwvuht6tmntem.webp&w=3840&q=75"
           alt=""
@@ -81,7 +81,7 @@ export default function Home() {
           <h2 className="font-thin text-transparent leading-[1.3] w-full bg-gradient-to-r from-white to-white via-yellow-200 bg-clip-text text-5xl">
             What drives us to provide the best care for your pets ?
           </h2>
-          <p className="text-white/70 leading-9 text-base mt-8">
+          <p className="text-white/70 leading-9 text-base mt-8 font-thin">
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi cum
             ea cupiditate eos at repellendus quo consequuntur. Voluptatibus
             cupiditate ipsa perspiciatis voluptatem fuga odio sit commodi
