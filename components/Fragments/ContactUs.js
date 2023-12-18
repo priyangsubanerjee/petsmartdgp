@@ -82,7 +82,7 @@ function ContactUs() {
               </div>
               <div>
                 <h2 className="font-semibold text-white">City Center</h2>
-                <p className="text-white/70 mt-2">Ph: +91 9883923485</p>
+                <p className="text-white/70 mt-2 text-sm">Ph: +91 9883923485</p>
                 <p className="text-white/50 font-light text-sm mt-2 leading-6">
                   Shop No - 13 , Kabiguru Sarani . SAIL CO-operative , City
                   Centre , Durgapur , West Bengal , 713216 , India
@@ -95,7 +95,7 @@ function ContactUs() {
               </div>
               <div>
                 <h2 className="font-semibold text-white">City Center</h2>
-                <p className="text-white/70 mt-2">Ph: +91 6297136600</p>
+                <p className="text-white/70 mt-2 text-sm">Ph: +91 6297136600</p>
                 <p className="text-white/50 font-light text-sm mt-2 leading-6">
                   52 Bidhannagar, Landmark : Bank Colony circle , Durgapur
                   713206 , West Bengal
