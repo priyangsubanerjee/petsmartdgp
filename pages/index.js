@@ -9,7 +9,7 @@ const inter = Inter({ subsets: ["latin"] });
 export default function Home() {
   return (
     <main>
-      <section className="h-screen bg-orange-50 relative">
+      <section className="lg:h-screen lg:max-h-[1000px] h-[500px] bg-orange-50 relative">
         <img
           src="https://www.neurascapes.com/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fdcigzqcd7%2Fimage%2Fupload%2Fv1700761285%2Ftest%2Fmsg3pfycwvuht6tmntem.webp&w=3840&q=75"
           alt=""
