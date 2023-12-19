@@ -4,7 +4,7 @@ import React from "react";
 function Navbar() {
   return (
     <div className="p-12 flex items-center sticky top-0  bg-gradient-to-b from-black via-black/40 to-transparent">
-      <img src="/logo.png" className="h-12" alt="" />
+      <img src="/logo.png" className="h-20" alt="" />
       <ul className="text-white/70 flex text-sm items-center space-x-12 ml-auto">
         <li>Home</li>
         <li>About</li>
