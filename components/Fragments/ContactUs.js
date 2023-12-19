@@ -81,7 +81,9 @@ function ContactUs() {
                 <Icon icon="ri:home-line" height={24} />
               </div>
               <div>
-                <h2 className="font-semibold text-white">City Center</h2>
+                <h2 className="font-semibold text-white">
+                  Pet Smart , City Centre
+                </h2>
                 <p className="text-white/70 mt-2 text-sm">Ph: +91 9883923485</p>
                 <p className="text-white/50 font-light text-sm mt-2 leading-6">
                   Shop No - 13 , Kabiguru Sarani . SAIL CO-operative , City
@@ -94,7 +96,9 @@ function ContactUs() {
                 <Icon icon="ri:home-line" height={24} />
               </div>
               <div>
-                <h2 className="font-semibold text-white">Bidhannagar</h2>
+                <h2 className="font-semibold text-white">
+                  New Pet Smart , Bidhannagar
+                </h2>
                 <p className="text-white/70 mt-2 text-sm">Ph: +91 6297136600</p>
                 <p className="text-white/50 font-light text-sm mt-2 leading-6">
                   52 Bidhannagar, Landmark : Bank Colony circle , Durgapur
