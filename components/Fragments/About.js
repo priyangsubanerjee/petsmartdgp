@@ -14,7 +14,17 @@ function About() {
           />
         </div>
         <div className="lg:w-[80%] px-24 lg:px-36 h-full flex flex-col justify-center relative z-20">
-          <h2 className="font-thin text-transparent leading-[1.2] w-full bg-gradient-to-r from-white to-white via-yellow-200 bg-clip-text text-5xl">
+          <p className="italic font-light text-white/70 relative w-fit">
+            <span className="text-white inline-block mr-1 absolute -left-12 -top-8">
+              <Icon height={44} icon="icon-park-outline:quote" />
+            </span>
+            The greatness of a nation and its moral progress can be judged by
+            the way its animals are treated
+            <span className="text-white inline-block mr-1 absolute -right-14 -bottom-6 rotate-180">
+              <Icon height={44} icon="icon-park-outline:quote" />
+            </span>
+          </p>
+          <h2 className="font-thin text-transparent mt-16 leading-[1.2] w-full bg-gradient-to-r from-white to-white via-yellow-200 bg-clip-text text-5xl">
             What drives us to provide the best care for your pets ?
           </h2>
           <p className="text-white/80 leading-10 text-base mt-10 font-thin">
